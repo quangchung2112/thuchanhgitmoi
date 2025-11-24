@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Nội dung 1
 Sửa đổi bởi thằng mới thêm
 Lại thêm nha
@@ -6,3 +7,5 @@ Sửa đổi bởi thằng mới thêm
 Thêm tieeos 1059
 
 
+=======
+>>>>>>> 010bb514cd79683fefa43f4241bdfa53290b6e40
